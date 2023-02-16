@@ -1,18 +1,21 @@
 {
-  "name": "fcc-learn-npm-package-json",
-  "author": "Zakaria Beji",
-  "dependencies": {
-    "express": "^4.14.0"
+	"name": "fcc-learn-npm-package-json",
+  "author":"z-bj",
+  "description":"Manage Node.js projects and npm packages using package.json",
+  "keywords":["freecodecamp","nodejs","javascript","backend"],
+  "license":"MIT",
+  "version":"1.2.0",
+	"dependencies": {
+    "express": "^4.16.4",
+    "helmet": "^3.14.0"
+ 
   },
-  "main": "server.js",
-  "scripts": {
-    "start": "node server.js"
-  },
-  "engines": {
-    "node": "8.11.2"
-  },
-  "repository": {
-    "type": "git",
-    "url": "https://idontknow/todo.git"
-  }
+	"main": "server.js",
+	"scripts": {
+		"start": "node server.js"
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://idontknow/todo.git"
+	}
 }
