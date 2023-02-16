@@ -1,7 +1,8 @@
-# Backend Challenges boilerplate - package.json
-[![Run on Repl.it](https://repl.it/badge/github/freeCodeCamp/boilerplate-npm)](https://repl.it/github/freeCodeCamp/boilerplate-npm)# boilerplate-npm
+# Backend boilerplate - package.json
 
+![banner](https://github.com/z-bj/boilerplate-npm/blob/master/using-npm-create-javascript-icon-libraries.png)
 
+credit image: [Simohamed Marhraoui](https://blog.logrocket.com/using-npm-to-create-javascript-icon-libraries/)
 
 
 ## How to Use package.json, the Core of Any Node.js Project or npm Package
@@ -113,6 +114,7 @@ You have now tested a few ways you can manage dependencies of your project by us
 But what if you want to remove an external package that you no longer need? You might already have guessed it, just remove the corresponding key-value pair for that package from your dependencies.
 This same method applies to removing other fields in your package.json as well.
 
+[![Run on Repl.it](https://repl.it/badge/github/freeCodeCamp/boilerplate-npm)](https://repl.it/github/freeCodeCamp/boilerplate-npm)
 
 
 
